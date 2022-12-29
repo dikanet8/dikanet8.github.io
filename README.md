@@ -1,3 +1,5 @@
 # dikanet8.github.io
 
-percobaan wes
+percobaan web
+sak
+dmsldlo
